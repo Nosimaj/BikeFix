@@ -1,6 +1,6 @@
-# Bicycle Repair Online System
+# Building A Bicycle Repair System
 
-Welcome to the Bicycle Repair Online System! This application facilitates the triage and quoting of bicycle repairs, communication between repair technicians and customers, and the scheduling of bicycle pickup and delivery.
+After the first summer of running our bike repair business, we've learned a lot from our prototype. This repo is the future home of the development for this app, so that we can share it with other bike repair companies. The application facilitates the triage and quoting of bicycle repairs, communication between repair technicians and customers, and the scheduling of bicycle pickup and delivery. This readme file is a living document for the current features of the system. We'll be adding code after we cleanse it of PIA, keys, passwords, etc.. Check back soon, or "watch" the repo for updates!
 
 ## Features
 
